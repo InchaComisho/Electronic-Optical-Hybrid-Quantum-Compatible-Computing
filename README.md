@@ -433,16 +433,16 @@ That role division is the foundation of Electronic–Optical Hybrid Quantum-Comp
 
 ## Related Links
 
-* NOTE article: Electronic–Optical Hybrid Quantum-Compatible Computing
+* NOTE article: Electronic–Optical Hybrid Quantum-Compatible Computing  
   https://note.com/inchacomusho/n/n110ab05dca7
 
-* Optical Bead Quantum Computing: Multi-Valued Photonic Paradigm
+* Optical Bead Quantum Computing: Multi-Valued Photonic Paradigm  
   https://note.com/inchacomusho/n/ndd3f8a35af41
 
-* Optical Bead Computing
+* Optical Bead Computing  
   https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm
 
-* Japanese README: 光学ビードコンピューティング
+* Japanese README: 光学ビードコンピューティング  
   https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md
 
 ---
