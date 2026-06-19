@@ -423,17 +423,17 @@ RGBW色モードは、4種類の色状態を表す。
 
 ## Related Links / 関連リンク
 
-* NOTE article: 電子・光ハイブリッド量子互換コンピューティング  
-  https://note.com/inchacomusho/n/n110ab05dca7
+### 前段階・基盤構想
 
-* Optical Bead Quantum Computing: Multi-Valued Photonic Paradigm  
-  https://note.com/inchacomusho/n/ndd3f8a35af41
+- [コンピュータのパラダイムシフト](https://note.com/inchacomusho/n/n3122fccd16e6)
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+- [Abacus Decimal Computing Paradigm - 日本語版](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm/blob/main/README_ja.md)
 
-* Optical Bead Computing  
-  https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm
+### 関連構想
 
-* 光学ビードコンピューティング  
-  https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md
+- [電子・光ハイブリッド量子互換コンピューティング構想](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README_ja.md)
+- [光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
+- [光珠量子計算：多値フォトニックパラダイム（日本語版学術論文）](https://note.com/inchacomusho/n/nf2b969db3c43)
 
 ---
 
@@ -505,4 +505,3 @@ Creative Commons Attribution-ShareAlike 4.0 International
 #次世代計算
 #AI計算基盤
 #InchaComisho
-

@@ -433,17 +433,16 @@ That role division is the foundation of Electronic–Optical Hybrid Quantum-Comp
 
 ## Related Links
 
-* NOTE article: Electronic–Optical Hybrid Quantum-Compatible Computing  
-  https://note.com/inchacomusho/n/n110ab05dca7
+### Foundational Architecture
 
-* Optical Bead Quantum Computing: Multi-Valued Photonic Paradigm  
-  https://note.com/inchacomusho/n/ndd3f8a35af41
+- [Computer Paradigm Shift](https://note.com/inchacomusho/n/n3122fccd16e6)
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+- [Abacus Decimal Computing Paradigm - English README](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm/blob/main/README.md)
 
-* Optical Bead Computing  
-  https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm
+### Related Architectures
 
-* Japanese README: 光学ビードコンピューティング  
-  https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md
+- [Electronic–Optical Hybrid Quantum-Compatible Computing Architecture](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
+- [Optical Bead Quantum Computing: A Multi-Valued Photonic Paradigm](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
 
 ---
 
