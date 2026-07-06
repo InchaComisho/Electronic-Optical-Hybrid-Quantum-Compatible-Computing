@@ -1,5 +1,7 @@
 # Electronic–Optical Hybrid Quantum-Compatible Computing
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Multi-Valued Photonic Computing Architecture Based on Soroban Five-Bead Cells, RGBW Optical Symbols, and CMOS Pattern Recognition
 
 **Electronic–Optical Hybrid Quantum-Compatible Computing** is a proposed computing architecture that combines the control stability, memory, and error-handling strengths of electronic circuits with the multi-valued, parallel, and spatial-pattern representation capabilities of light.
